@@ -1,5 +1,5 @@
 
-const loveLetterText = `Dear Dada,
+const loveLetterText = `Hello Da,
 
 Happy Valentine’s Day! I just want to take a moment to let you know how much I appreciate you. Your friendship means so much to me and I am grateful. You make life brighter just by being yourself.
 
